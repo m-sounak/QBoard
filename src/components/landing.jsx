@@ -12,13 +12,16 @@ class Landing extends React.Component
                         <a href="/">HOME</a>
                         <a href="/board">WHITEBOARD</a>
                     </div>
+                    <br/><br/>
 
                     <div id="content" width="25%">
-                        <p class="para"><b>Talkandbuy</b></p>
+                        <p class="para"><b>QBoard</b></p>
                         <p class="innerPara">
-                            Hello, Welcome to Talkandbuy. 
-                            You can communicate with others regarding the products you are looking for and based on your communications, we will recommend you products that you might be interested in.
-                            <br /><br />So, what are you waiting for, hurry up and login into our website.
+                            Hello, Welcome to Qboard. 
+                            A collaborative white board. Forget about internet wasting screen shares.
+                            Write once and this will be visible to everyone in your group
+                            <br /><br />So, what are you waiting for, hurry up and use this amazing tool.
+                            <br/><br/>Created by Sounak Majumder, IIESTS.
                         </p>
                     </div>
                     
