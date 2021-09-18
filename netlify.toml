@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/board"
+  status = 200
