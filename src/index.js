@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+app.get("/",(req,res)=>{res.send("hi");})
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
