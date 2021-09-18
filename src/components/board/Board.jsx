@@ -6,7 +6,7 @@ import './style.css'
 class Board extends React.Component{
 
     timeout;
-    socket = io.connect("http://localhost:5000");
+    socket = io.connect("https://qboard-server.herokuapp.com/");
 
     ctx;
     isDrawing = false;
